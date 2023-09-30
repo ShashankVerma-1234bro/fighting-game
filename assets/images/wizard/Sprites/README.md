@@ -1,0 +1,1 @@
+adding wizard sprites here.
